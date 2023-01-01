@@ -1,0 +1,15 @@
+E:\CleanArchitecture\Employee.API\Employee.Infrastructure\bin\Debug\net7.0\Employee.Infrastructure.deps.json
+E:\CleanArchitecture\Employee.API\Employee.Infrastructure\bin\Debug\net7.0\Employee.Infrastructure.dll
+E:\CleanArchitecture\Employee.API\Employee.Infrastructure\bin\Debug\net7.0\Employee.Infrastructure.pdb
+E:\CleanArchitecture\Employee.API\Employee.Infrastructure\bin\Debug\net7.0\Employee.Core.dll
+E:\CleanArchitecture\Employee.API\Employee.Infrastructure\bin\Debug\net7.0\Employee.Core.pdb
+E:\CleanArchitecture\Employee.API\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.csproj.AssemblyReference.cache
+E:\CleanArchitecture\Employee.API\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\CleanArchitecture\Employee.API\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.AssemblyInfoInputs.cache
+E:\CleanArchitecture\Employee.API\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.AssemblyInfo.cs
+E:\CleanArchitecture\Employee.API\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.csproj.CoreCompileInputs.cache
+E:\CleanArchitecture\Employee.API\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.csproj.CopyComplete
+E:\CleanArchitecture\Employee.API\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.dll
+E:\CleanArchitecture\Employee.API\Employee.Infrastructure\obj\Debug\net7.0\refint\Employee.Infrastructure.dll
+E:\CleanArchitecture\Employee.API\Employee.Infrastructure\obj\Debug\net7.0\Employee.Infrastructure.pdb
+E:\CleanArchitecture\Employee.API\Employee.Infrastructure\obj\Debug\net7.0\ref\Employee.Infrastructure.dll
